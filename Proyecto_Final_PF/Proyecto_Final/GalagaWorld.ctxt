@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GalagaWorld
+comment1.params=
+comment1.target=GalagaWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawnEnemies()
+comment4.params=
+comment4.target=void\ gameOver()
+comment5.params=points
+comment5.target=void\ incrementScore(int)
+numComments=6
